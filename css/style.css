@@ -18,3 +18,22 @@ body {
 }
 
 /* Write all remaining styles here */
+header{
+  
+}
+header a{
+  color: color: rgb(152,173,166);
+  text-decoration: none;
+}
+
+header h1{
+  font-size: 5em;
+}
+
+h1 h2{
+  font-family: 'Libre Baskerville', serif;
+  
+}
+h2{
+  font-size: 2em;
+}
